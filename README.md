@@ -7,7 +7,7 @@
 
 **Связаться со мной:** <br>
 dburakovv@gmail.com <br>
-![telegram (1)](https://github.com/BurakovvDM/BurakovvDM/assets/152418482/d1addff7-dc2a-4e51-aeec-c7b4e51b3584https://t.me/DmBum)
+![telegram (1)](https://github.com/BurakovvDM/BurakovvDM/assets/152418482/d1addff7-dc2a-4e51-aeec-c7b4e51b3584)[t.me](https://t.me/DmBum)
 
 **Инструменты:** <br>
 

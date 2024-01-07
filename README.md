@@ -13,7 +13,7 @@ dburakovv@gmail.com <br>
 
 - python (pandas, numpy, мatplotlib, seaborn, plotly, scipy и пр.)
 - SQL (PostgreSQL)
-- tableau (https://public.tableau.com/app/profile/dmitrii.burakov/vizzes)
+- [tableau](https://public.tableau.com/app/profile/dmitrii.burakov/vizzes)
 
 
 

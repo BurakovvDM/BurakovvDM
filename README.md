@@ -11,7 +11,9 @@ dburakovv@gmail.com <br>
 
 **Инструменты:** <br>
 
-
+- python (pandas, numpy, мatplotlib, seaborn, plotly, scipy и пр.)
+- SQL (PostgreSQL)
+- tableau
 
 
 

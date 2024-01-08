@@ -11,7 +11,7 @@
 
 **Инструменты:** <br>
 
-- python (pandas, numpy, мatplotlib, seaborn, plotly, scipy и пр.)
+- python (pandas, numpy, мatplotlib, seaborn, plotly, scipy)
 - SQL (PostgreSQL)
 - [tableau](https://public.tableau.com/app/profile/dmitrii.burakov/vizzes)
 

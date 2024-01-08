@@ -6,7 +6,7 @@
 Непрерывно расширяю навыки и изучаю новые инструменты и методики. 
 
 **Связаться со мной:** <br>
-dburakovv@gmail.com <br>
+[mail](dburakovv@gmail.com) <br>
 [t.me](https://t.me/DmBum)
 
 **Инструменты:** <br>

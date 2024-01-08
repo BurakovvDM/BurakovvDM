@@ -6,7 +6,8 @@
 Непрерывно расширяю навыки и изучаю новые инструменты и методики. 
 
 **Связаться со мной:** <br>
-[t.me](https://t.me/DmBum)
+[t.me](https://t.me/DmBum) <br>
+[kaggle](https://www.kaggle.com/burakovdmitrii)
 
 **Инструменты:** <br>
 

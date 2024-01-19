@@ -8,7 +8,6 @@
 
 **Связаться со мной:** <br>
 [t.me](https://t.me/DmBum) <br>
-[kaggle](https://www.kaggle.com/burakovdmitrii)
 
 **Инструменты:** <br>
 
